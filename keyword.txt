@@ -1,0 +1,7 @@
+tinyCommand   KEYWORD1
+tC					KEYWORD1
+
+begin      KEYWORD2
+end        KEYWORD2
+setCmd     KEYWORD2
+scan     KEYWORD2
